@@ -1,0 +1,63 @@
+{
+    "name": "Alex Johnson",
+    "email": "alex.johnson@email.com",
+    "phone": "+1 (555) 123-4567",
+    "location": "San Francisco, CA",
+    "objective": "Passionate software engineer with strong foundation in full-stack development...",
+    "education": [
+        {
+            "degree": "Bachelor of Science, Computer Science",
+            "college": "Stanford University",
+            "year": "2019 - 2023",
+            "gpa": "GPA: 3.9/4.0"
+        }
+    ],
+    "extracurriculars": [
+        "Active member of the university tech community and hackathon participant..."
+    ],
+    "trainings": [
+        {
+            "title": "Advanced React Development",
+            "source": "Udemy, Online",
+            "duration": "Jan 2024 - Mar 2024",
+            "description": "Mastered advanced React concepts including hooks, context, and performance optimization..."
+        },
+        {
+            "title": "Full Stack Web Development",
+            "source": "Coursera, Online",
+            "duration": "Sep 2023 - Dec 2023",
+            "description": "Comprehensive course covering frontend and backend development with modern frameworks..."
+        }
+    ],
+    "projects": [
+        {
+            "title": "E-Commerce Platform",
+            "duration": "Mar 2024 - May 2024",
+            "link": "https://example-ecommerce.com/",
+            "description": "A full-stack e-commerce platform built with React, Node.js, and MongoDB..."
+        }
+    ],
+    "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Python",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Git",
+        "TypeScript",
+        "MongoDB",
+        "Express.js"
+    ],
+    "portfolio": [
+        {
+            "title": "GitHub Profile",
+            "link": "https://github.com"
+        }
+    ],
+    "accomplishments": [
+        "Led development team to win university hackathon",
+        "Contributed to 3 open-source projects with 100+ stars"
+    ]
+}

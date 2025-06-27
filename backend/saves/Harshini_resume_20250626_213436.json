@@ -1,0 +1,27 @@
+{
+    "name": "Bhuvaneswari Ganagala",
+    "email": "gganagalabhuvaneswari@gmail.com",
+    "phone": "+91 6302174168",
+    "location": "Nuzividu (Improved by AI: rephrased professionally for clarity and impact.)",
+    "objective": "Experienced software developer with expertise in modern web technologies... Highly motivated developer skilled in delivering robust web solutions. Proficient in modern technologies with a passion for clean, scalable code and continuous learning.",
+    "education": "degree: Bachelor of Science, Computer Science Demonstrated academic excellence in computer science. Consider including: degree, graduation year, GPA, and institution name for comprehensive academic representation.",
+    "extracurriculars": "Member of the university coding club and hackathon organizer... Played a pivotal role in organizing campus tech events. Actively contributed to coding communities and peer learning initiatives.",
+    "trainings": "title: Advanced React Development, source: Udemy, Online, duration: Jan 2024 - Mar 2024, description: Mastered advanced React concepts including hooks, context, and performance optimization...; title: Full Stack Web Development, source: Coursera, Online, duration: Sep 2023 - Dec 2023, description: Comprehensive course covering frontend and backend development with modern frameworks... Completed multiple hands-on certifications in full stack development. Focused on practical application, real-world project development, and agile methodologies.",
+    "projects": "title: E-Commerce Platform, duration: Mar 2024 - May 2024, link: https://example-ecommerce.com/, description: A full-stack e-commerce platform built with React, Node.js, and MongoDB... Engineered scalable full-stack solutions with high performance. Implemented modern UI/UX principles and optimized backend services for real-time usage.",
+    "skills": [
+        "React",
+        "Node.js",
+        "Python",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Git",
+        "TypeScript",
+        "MongoDB",
+        "Express.js",
+        "postman",
+        "javascript"
+    ],
+    "portfolio": "title: GitHub Profile, link: https://github.com/johndoe Maintains an active GitHub with clean, well-documented code. Demonstrates professional project structure and collaboration readiness.",
+    "accomplishments": "Led development team to win university hackathon; Contributed to 3 open-source projects with 100+ stars Recognized for leadership in hackathons and consistent open-source contributions. Achieved measurable impact in cross-functional tech teams."
+}
