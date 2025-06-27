@@ -54,7 +54,7 @@ resume_editor/
 │   └── vite.config.js
 
 ### 1. Clone the repository
-git clone https://github.com/yourusername/resume-editor.git
+git clone https://github.com/BhuvaneswariGanagala/Resume-Editor.git
 cd resume-editor
 
 ###2. Backend Setup (FastAPI)
@@ -69,6 +69,7 @@ Server runs at: http://localhost:8000
 ###3. Frontend Setup (React + Vite)
 ✅ Install dependencies
 cd frontend
+cd my-app
 npm install
 
 ✅ Create .env
